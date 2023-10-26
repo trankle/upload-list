@@ -1,6 +1,11 @@
+<!--
+ * @Description:  
+ * @Author: 王天琦
+ * @Date: 2023-09-18 09:59:29
+-->
 # crcc-uploadList
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite.init 
 
 ## Recommended IDE Setup
 
